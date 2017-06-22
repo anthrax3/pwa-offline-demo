@@ -3,11 +3,11 @@ CACHE MANIFEST
 #plugin:4.8.1
 
 CACHE:
-/static/js/app.7a993b9d4d0920d4d94d.js
-/static/js/vendor.232401b43c5511cf2611.js
-/static/js/manifest.938e829c8bd189873feb.js
-/static/css/app.7942f1ae1971a2358ac89c35a3b9d525.css
-/
+static/js/app.7a993b9d4d0920d4d94d.js
+static/js/vendor.232401b43c5511cf2611.js
+static/js/manifest.938e829c8bd189873feb.js
+static/css/app.7942f1ae1971a2358ac89c35a3b9d525.css
+./
 
 NETWORK:
 *
